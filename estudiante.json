@@ -1,0 +1,18 @@
+{
+  "Titulo" : "HOJA DE VIDA",
+  "Institucion" : "El Libertador",
+  "PROM" : 2019,
+  "active" : true,
+  "Miembro" : [
+    {
+      "Nombre" : "Carlos Alberto Cano Ramirez",
+      "Edad" : 16,
+      "Carrera" : "Programacion de Software",
+      "Experiencia Laboral" : [
+        "Resistencia a Radiacion",
+        "Volverse Pequeño",
+        "Explosión de radiación"
+         }
+      ]
+    }
+}
