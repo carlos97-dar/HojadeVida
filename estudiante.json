@@ -9,7 +9,9 @@
       "Edad" : 16,
       "Carrera" : "Programacion de Software",
       "Experiencia_Laboral" : [
-        "No tengo experiencia laboral como tal sino que estoy trabajado en un proyecto para el colegio y para el SENA"
+        "No tengo experiencia laboral como tal sino que estoy trabajado en un proyecto para el colegio y para el SENA",
+        "",
+        ""
         ] 
         }
       ]
